@@ -47,10 +47,11 @@ Here you have two choices:
    - Clear and precise document (450 points)
    - Clean and easy to navigate document (50 points)
 
-2. Create a simple program that calculates the Nth number of the fibonachi sequence using only the operations available in *fake6502.c*.
-   - Your program works (450 points)
-   - Your program works without changes or errors (25 points)
-   - The code is clean and commented (25 points)
+2. Create a simple program that calculates the 10th number of the fibonachi sequence using only the operations available in *fake6502.c*
+  - Your program works (440 points)
+  - Print the 10th number in the console using the *c language* (10 points)
+  - Your program works without changes or errors (25 points)
+  - The code is clean and commented (25 points)
 
 ### General (for main program)
 - The code is clean and commented (25 points)
