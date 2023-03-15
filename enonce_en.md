@@ -41,7 +41,7 @@ The Universities Committee wants to preserve the history of the ancient civiliza
 ### Understand how the mythical 6502 emulator works
 Here you have two choices:
 
-**If you do both, the proofreader will choose one at random and the other will be ignored**
+**If you do both, the person who corrects will choose one at random and the other will be ignored**
 
 1. Write a *markdown* document that explains **IN DEPTH** how the 6502 emulator works technically and theoretically.
    - Clear and precise document (450 points)
