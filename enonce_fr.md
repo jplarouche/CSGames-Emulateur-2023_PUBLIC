@@ -61,3 +61,7 @@ Ici vous avez deux choix:
 - Le code est propre et commenté (25 points)
 - Le projet fonctionne sans modifications ni problèmes (25 points)
 - Un Makefile permet de compiler et lancer le programme (50 points)
+
+## Remise
+
+Pour la remise de votre code, svp placer **TOUS** vos fichiers dans un ZIP et envoyer le tout à [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **N'oubliez surtout pas d'iniquier votre nom d'équipe.**
