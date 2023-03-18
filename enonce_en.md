@@ -57,3 +57,7 @@ Here you have two choices:
 - The code is clean and commented (25 points)
 - The project works without modifications or problems (25 points)
 - A Makefile allows to compile and launch the program (50 points)
+
+## Submission
+
+To submit your code, create a ZIP file that contains **ALL** your files and send it to [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **Do not forget to include your team name.**
